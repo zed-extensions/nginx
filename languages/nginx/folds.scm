@@ -1,13 +1,11 @@
 (block
   "{" @start
-  "}" @end
-)
+  "}" @end)
 
 (lua_block
   "{" @start
-  "}" @end
-)
+  "}" @end)
 
 (simple_directive
-	name: (directive) @start
-	(#set! scope.byLine)) @end.after
+  name: (directive) @start
+  (#set! scope.byLine)) @end.after
