@@ -72,7 +72,7 @@ checksum = "90ed8c1e510134f979dbc4f070f87d4313098b704861a105fe34231c70a3901c"
 
 [[package]]
 name = "nginx-zed"
-version = "0.0.1"
+version = "0.0.2"
 dependencies = [
  "zed_extension_api",
 ]
