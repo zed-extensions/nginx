@@ -1,11 +1,10 @@
-authors = ["d1y <chenhonzhou@gmail.com>"]
-description = "Nginx support"
 id = "nginx"
 name = "Nginx"
-repository = "https://github.com/d1y/nginx-zed"
-schema_version = 1
+description = "Nginx support"
 version = "0.0.1"
-languages = ["languages/nginx"]
+schema_version = 1
+authors = ["d1y <chenhonzhou@gmail.com>"]
+repository = "https://github.com/d1y/nginx-zed"
 
 [grammars.nginx]
 repository = "https://gitlab.com/joncoole/tree-sitter-nginx"
