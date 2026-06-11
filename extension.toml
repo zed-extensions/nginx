@@ -8,7 +8,7 @@ repository = "https://github.com/d1y/nginx-zed"
 
 [grammars.nginx]
 repository = "https://gitlab.com/joncoole/tree-sitter-nginx"
-rev = "b4b61db443602b69410ab469c122c01b1e685aa0"
+rev = "9413233132d1787aa8d7e8f295ee20b55ba991de"
 
 [language_servers.nginx]
 name = "nginx"
